@@ -10,10 +10,8 @@
 
 ```bash
 pip install -U auto-coder
-pip install super_analysis-xxxx-py3-none-any.whl
+pip install -U super-analysis
 ```
-
-注意替换下 xxxx 为版本号。
 
 ---
 
