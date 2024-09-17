@@ -33,6 +33,12 @@ byzerllm deploy --pretrained_model_type saas/openai \
 
 ---
 
+## 架构图
+
+![架构图](./image.png)
+
+---
+
 ## 🛠️ 部署 Byzer-SQL
 
 参考 [安装与配置 Byzer-SQL 文档](./docs/4.3.1%20安装与配置%20Byzer-SQL.pdf) 完成部署。
@@ -109,5 +115,6 @@ super-analysis.serve --served-model-name deepseek_chat --port 8000 \
 ---
 
 现在，Super Analysis 系统已经完全部署并启动。你可以开始使用 OpenAI SDK 进行测试和接口调用。具体测试和接口使用方法请参考 [openai_local_api.ipynb](./openai_local_api.ipynb)。
+
 
 🎉 恭喜！你已经成功部署了 Super Analysis 系统。如有任何问题，请随时查阅文档或联系支持团队。
